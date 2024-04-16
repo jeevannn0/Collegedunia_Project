@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Folder Format
+
+project-folder/
+│
+├── public/
+├── src/
+│ ├── components/
+│ ├── data/
+│ ├── styles/
+│ ├── App.js
+│ └── index.js
+│
+└── README.md
+
 ## Available Scripts
 
 In the project directory, you can run:
