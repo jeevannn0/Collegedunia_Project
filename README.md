@@ -4,17 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Folder Format
 
-project-folder/ 
-│ 
-├── public/ 
-├── src/ 
-│ ├── components/ 
-│ ├── data/ 
-│ ├── styles/ 
-│ ├── App.js 
-│ └── index.js 
-│ 
-└── README.md 
  
 ## Available Scripts
 
